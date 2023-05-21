@@ -14,6 +14,8 @@ www.onlinekhabar.com##.ok18-inbetween-ad
 www.onlinekhabar.com##.ok18-inbetween-mobile-ad
 www.onlinekhabar.com##.ok18-inbetween-ad-2
 www.onlinekhabar.com##.ok18-inbetween-mobile-ad-2
+www.onlinekhabar.com##.nh_widget_wrap
+www.onlinekhabar.com##.tribox-add
 
 ! https://www.ratopati.com/
 www.ratopati.com##.sticky.sidebar-adv
